@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin-UI/static/css/main.15030f5e.css",
+    "main.js": "/Admin-UI/static/js/main.067216f5.js",
+    "static/js/787.6335e7d5.chunk.js": "/Admin-UI/static/js/787.6335e7d5.chunk.js",
+    "index.html": "/Admin-UI/index.html",
+    "main.15030f5e.css.map": "/Admin-UI/static/css/main.15030f5e.css.map",
+    "main.067216f5.js.map": "/Admin-UI/static/js/main.067216f5.js.map",
+    "787.6335e7d5.chunk.js.map": "/Admin-UI/static/js/787.6335e7d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15030f5e.css",
+    "static/js/main.067216f5.js"
+  ]
+}
